@@ -3,4 +3,4 @@ project(cmpe250_project2_cihatkapusuz_master)
 
 set(CMAKE_CXX_STANDARD 11)
 
-add_executable(project2 main.cpp)
+add_executable(project2)
